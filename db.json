@@ -28,7 +28,7 @@
     { "id": 3, 
       "title": "Contract 2", 
       "default": true, 
-      "campaigns": [], 
+      "campaigns": [{ "id": 2, "title": "Campaign 2", "contract_id": 5 }], 
       "versions": [
         {
           "id": 1,
